@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/onclass-learning/core/compare/v0.1.0...v0.2.0) (2022-08-16)
+
+
+### Features
+
+* add index ([1c98041](https://github.com/onclass-learning/core/commit/1c98041a1bb46d438d0bd49d088a8ef094c071f0))
+* remove prettier ([fcec48f](https://github.com/onclass-learning/core/commit/fcec48fa2a98f4ef5653ec170c86f63f4f06fc57))
+
+
+
+
+
 # [0.1.0](https://github.com/onclass-learning/core/compare/v0.0.1...v0.1.0) (2022-08-16)
 
 
