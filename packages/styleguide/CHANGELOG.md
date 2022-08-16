@@ -9,12 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * remove husky ([bc6ac96](https://github.com/onclass-learning/core/commit/bc6ac963303f278207a94931aa774753efe1c866))
-* remove task workflow ([08bc44e](https://github.com/onclass-learning/core/commit/08bc44e73c0e91147c46f06e2ee9ef2bfeca7ae9))
-
-
-
-
-
-## 0.0.1 (2022-08-16)
-
-**Note:** Version bump only for package root
