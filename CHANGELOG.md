@@ -38,6 +38,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.2.0](https://github.com/onclass-learning/core/compare/v1.1.0...v1.2.0) (2022-08-16)
+
+
+### Features
+
+* move github actions folder to packages ([e74120f](https://github.com/onclass-learning/core/commit/e74120f24f5e8b13f3891e6cd7ce67df2e16c12b))
+* run trigger release please ([39ae17e](https://github.com/onclass-learning/core/commit/39ae17ea66de5d8a41768174ca8803c004092a34))
+
 ## 0.0.1 (2022-08-16)
 
 **Note:** Version bump only for package root
