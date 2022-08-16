@@ -38,6 +38,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.3.0](https://github.com/onclass-learning/core/compare/v1.2.0...v1.3.0) (2022-08-16)
+
+
+### Features
+
+* add new action ([efb849c](https://github.com/onclass-learning/core/commit/efb849c80c9ebcfe3cda693c9715d9b27f0b9c1b))
+
 ## [1.2.0](https://github.com/onclass-learning/core/compare/v1.1.0...v1.2.0) (2022-08-16)
 
 
