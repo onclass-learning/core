@@ -10,5 +10,6 @@
     "cz-conventional-changelog": "3.3.0",
     "husky": "^8.0.1",
     "lerna": "^4.0.0"
-  }
+  },
+  "version": "1.2.0"
 }
