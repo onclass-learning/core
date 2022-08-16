@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@onclass-tech-learning/core",
+  "private": false,
   "scripts": {
     "prepare": "husky install",
     "postversion": "git push --follow-tags"
