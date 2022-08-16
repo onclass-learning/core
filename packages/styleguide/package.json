@@ -1,0 +1,26 @@
+{
+  "name": "@onclass-tech-learning/styleguide",
+  "version": "0.0.0",
+  "description": "onclass token library",
+  "main": "index.js",
+  "author": "onclass",
+  "license": "ISC",
+  "private": false,
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "engines": {
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.20",
+    "node": ">= 14.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.54.4",
+    "sass-loader": "^13.0.2",
+  }
+}
