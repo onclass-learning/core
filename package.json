@@ -1,9 +1,13 @@
 {
   "name": "onclass",
-  "private": false,
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "prepare": "husky install",
-    "postversion": "git push --follow-tags"
+    "postversion": "git push --follow-tags",
+    "styleguide:publish": "yarn workspace @onclass-tech-learning/styleguide publish"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
@@ -12,6 +16,5 @@
     "husky": "^8.0.1",
     "lerna": "^4.0.0"
   },
-  "version": "1.3.0",
-  "dependencies": {}
+  "version": "1.3.0"
 }

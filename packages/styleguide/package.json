@@ -12,7 +12,8 @@
     "url": ""
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "publish": "npm publish --access public"
   },
   "engines": {
     "npm": "please-use-yarn",
