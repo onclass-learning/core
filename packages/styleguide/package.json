@@ -12,7 +12,6 @@
     "url": ""
   },
   "scripts": {
-    "prepare": "husky install",
     "publish": "npm publish --access public"
   },
   "engines": {
