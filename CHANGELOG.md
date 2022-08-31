@@ -38,6 +38,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.4.0](https://github.com/onclass-learning/core/compare/v1.3.0...v1.4.0) (2022-08-31)
+
+
+### Features
+
+* change token ([e7f5e93](https://github.com/onclass-learning/core/commit/e7f5e9374b6c203a4cc3af297dd964f531f40307))
+* test ([3930d50](https://github.com/onclass-learning/core/commit/3930d5001a131c0e4387696a25b7cbdddf5e3dfa))
+* trigger ([b4aac62](https://github.com/onclass-learning/core/commit/b4aac62be0267b62f0b9898b47848659dd54e9aa))
+* trigger ([5bc3073](https://github.com/onclass-learning/core/commit/5bc30733f322ee29fd52b588c4f6eb5adcda8e6f))
+* trigger ([6a9fc43](https://github.com/onclass-learning/core/commit/6a9fc43bc0b7da53f8b17adfd79d0a9f2181166e))
+
 ## [1.3.0](https://github.com/onclass-learning/core/compare/v1.2.0...v1.3.0) (2022-08-16)
 
 
