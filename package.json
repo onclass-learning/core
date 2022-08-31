@@ -7,7 +7,8 @@
   "scripts": {
     "prepare": "husky install",
     "postversion": "git push --follow-tags",
-    "styleguide:publish": "yarn workspace @onclass-tech-learning/styleguide publish"
+    "release": "lerna publish",
+    "release:latest": "lerna publish --dist-tag latest"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
